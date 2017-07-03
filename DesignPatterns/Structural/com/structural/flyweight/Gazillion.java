@@ -1,4 +1,4 @@
-package com.strucutral.flyweight;
+package com.structural.flyweight;
 
 public class Gazillion {
 	

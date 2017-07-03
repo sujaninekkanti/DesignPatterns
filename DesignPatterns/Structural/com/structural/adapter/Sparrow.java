@@ -1,4 +1,4 @@
-package com.strucutral.adapter;
+package com.structural.adapter;
 
 public class Sparrow implements Bird{
 

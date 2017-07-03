@@ -1,4 +1,4 @@
-package com.strucutral.adapter;
+package com.structural.adapter;
 
 /**
  * @author Sujani
