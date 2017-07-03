@@ -1,4 +1,4 @@
-package com.Template;
+package com.template;
 
 public class GlassHouse extends HouseTemplate{
 
